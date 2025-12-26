@@ -1,4 +1,4 @@
-# Xây dựng website giới thiệu và đặt tour du lịch trực tuyến – Travel Easy
+# Xây dựng website giới thiệu và đặt tour du lịch trực tuyến – TravelEasy
 
 ## Mô tả ngắn gọn đề tài:
 Travel Easy là website hỗ trợ người dùng tìm kiếm, xem thông tin tour và đặt tour trực tuyến theo nhu cầu (số lượng khách, thời gian, giá…). Hệ thống giúp khách hàng tiếp cận tour dễ dàng và hỗ trợ doanh nghiệp quản lý tour, địa điểm du lịch, khách sạn, nhà hàng và các đơn đặt tour một cách nhanh chóng, hiệu quả.
